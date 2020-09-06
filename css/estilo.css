@@ -136,7 +136,7 @@ html{
 #logo{
         width: 150px;
         height: 150px;
-        background-image: url(../img/logotipo\ quentinhas.png);
+        background-image: url(img/logotipo\ quentinhas.png);
         background-size: 100%;
         margin-left: 100px;
 }
@@ -341,13 +341,6 @@ html{
         float: left;
         display: flex;
     }
-    #logo{
-        width: 150px;
-        height: 150px;
-        background-image: url(../img/logotipo\ quentinhas.png);
-        background-size: 100%;
-        margin-left: 100px;
-      }
     #btn_menu{
         margin-top: 50px;
     }
